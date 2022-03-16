@@ -1,0 +1,84 @@
+{
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The retail disc of Tony Hawk&#039;s Pro Skater 5 only comes with the tutorial.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "Unturned originally started as a Roblox game.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "History",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "Joseph Stalin&#039;s real name was Ioseb Bessarionis dze Dzugashvili.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The song &quot;Mystery Train&quot; was released by artist &quot;Little Junior&#039;s Blue Flames&quot; in 1953.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The board game Go has more possible legal positions than the number of atoms in the visible universe.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In the &quot;To Love-Ru&quot; series, Peke is considered a female robot.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In the &quot;Kagerou Daze&quot; series, Shintaro Kisaragi is prominently shown with the color red.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The singer Billie Holiday was also known as &quot;Lady Day&quot;.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The protagonist&#039;s names in &#039;Who&#039;s Afraid of Virginia Woolf&#039;, George and Martha, were derived from George Washington and his wife.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    }
+  ]
+}
